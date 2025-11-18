@@ -16,7 +16,7 @@
  
  👯 I'm looking to collaborate on **Open Source Projects**
 
- 💬 Ask me about **Python, JavaScript, MERN Stack... or anything [here](https://github.com/AffanHossainRakib/AffanHossainRakib/issues)**
+ 💬 Ask me about **Python, JavaScript, MERN Stack... or anything [here](https://github.com/MaahinSK/MaahinSK/issues)**
 
  📫 How to reach me **maahin810@gmail.com**
 
