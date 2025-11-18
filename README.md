@@ -41,7 +41,7 @@
 <h2 align="center">Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,git,pandas,latex" />
     <img src="https://skillicons.dev/icons?i=python,vscode,github,figma,mysql,nextjs,firebase" /><br>
 </div>
 <br/>
